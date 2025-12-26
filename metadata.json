@@ -1,0 +1,7 @@
+{
+  "name": "SonicGenius - Análise Musical",
+  "description": "Uma ferramenta avançada de análise de estilos musicais baseada em IA. Descubra gêneros, instrumentação, humor e contexto histórico de qualquer música ou artista.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
